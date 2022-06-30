@@ -1,0 +1,17 @@
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\ServiceLayerTrainning.exe.config
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\ServiceLayerTrainning.exe
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\ServiceLayerTrainning.pdb
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\RestSharp.dll
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\Newtonsoft.Json.xml
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\bin\Debug\RestSharp.xml
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.Form1.resources
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.Forms.resultForm.resources
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.Properties.Resources.resources
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.csproj.GenerateResource.cache
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.csproj.CoreCompileInputs.cache
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.csproj.CopyComplete
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.exe
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.pdb
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.Forms.bpForm.resources
+C:\Users\avergari\Documents\Visual Studio 2019\Projects\ServiceLayerTrainning\ServiceLayerTrainning\obj\Debug\ServiceLayerTrainning.csprojAssemblyReference.cache

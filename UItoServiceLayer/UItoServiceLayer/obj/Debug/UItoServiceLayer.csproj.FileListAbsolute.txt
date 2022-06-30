@@ -1,0 +1,26 @@
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.exe.config
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.exe
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.pdb
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\RestSharp.dll
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\RestSharp.xml
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.exe
+C:\Users\inovage.avergari\documents\visual studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.pdb
+C:\Users\alex.vergari\Documents\Visual Studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.exe.config
+C:\Users\alex.vergari\Documents\Visual Studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.exe
+C:\Users\alex.vergari\Documents\Visual Studio 2013\Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.pdb
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.exe.config
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.exe
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\UItoServiceLayer.pdb
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\RestSharp.dll
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\bin\Debug\RestSharp.xml
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.csprojAssemblyReference.cache
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.csproj.CopyComplete
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.exe
+C:\Users\avergari\Documents\Vergari Projects\UItoServiceLayer\UItoServiceLayer\obj\Debug\UItoServiceLayer.pdb
